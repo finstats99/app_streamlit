@@ -1,0 +1,8 @@
+streamlit
+pandas
+finance-datareader
+matplotlib
+koreanize-matplotlib
+lxml
+beautifulsoup4
+openpyxl
